@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://114.116.76.197/demo?characterEncoding=UTF-8&useSSL=false
+    username: zlb
+    password: Zlb1028
